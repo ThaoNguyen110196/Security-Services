@@ -1,0 +1,6 @@
+@ReversePoxy_HostAddress = http://localhost:5087
+
+GET {{ReversePoxy_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

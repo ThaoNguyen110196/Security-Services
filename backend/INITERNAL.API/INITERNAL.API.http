@@ -1,0 +1,6 @@
+@INITERNAL.API_HostAddress = http://localhost:5152
+
+GET {{INITERNAL.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
